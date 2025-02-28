@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="295c6b60-6a2a-4107-a745-0e8499c45d70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/py-ds/numpy/kitchenimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-ds/numpy/numpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py-ds/pandas/pandas.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oYLddDYx7uOmnaC0df7OMzBOlX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.anagram.executor": "Run",
+    "Python.append_mode.executor": "Run",
+    "Python.break_statement.executor": "Run",
+    "Python.break_statement_exercise.executor": "Run",
+    "Python.class_object.executor": "Run",
+    "Python.continue_statement.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.dict_itteration_exercise (1).executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.dictionary_exercise_2.executor": "Run",
+    "Python.dictionary_iteration_exercise (1).executor": "Run",
+    "Python.dictionary_iteration_exercise.executor": "Run",
+    "Python.dictionary_methods.executor": "Run",
+    "Python.exercise.executor": "Run",
+    "Python.exercise1.executor": "Run",
+    "Python.exercise_1.executor": "Run",
+    "Python.exercise_2.executor": "Run",
+    "Python.exercise_hw.executor": "Run",
+    "Python.exercise_multiple.executor": "Run",
+    "Python.exercise_operations.executor": "Run",
+    "Python.exercise_weekly_hw.executor": "Run",
+    "Python.exercises.executor": "Run",
+    "Python.exersise.executor": "Run",
+    "Python.fibonacci_series (1).executor": "Run",
+    "Python.fibonacci_series.executor": "Run",
+    "Python.fiboncci_series.executor": "Run",
+    "Python.for_else.executor": "Run",
+    "Python.functional+programming.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.grp_weekly_exercise.executor": "Run",
+    "Python.head_or_tail.executor": "Run",
+    "Python.hw_exercise.executor": "Run",
+    "Python.if_statements.executor": "Run",
+    "Python.input_function.executor": "Run",
+    "Python.itteration.executor": "Run",
+    "Python.itteration_exercise.executor": "Run",
+    "Python.lambda_functions.executor": "Run",
+    "Python.list_comprehention.executor": "Run",
+    "Python.list_methods.executor": "Run",
+    "Python.list_of_strings.executor": "Run",
+    "Python.map_function.executor": "Run",
+    "Python.my-journal-gen2.executor": "Run",
+    "Python.my-journal.executor": "Run",
+    "Python.my-journal_gen2.executor": "Run",
+    "Python.nested_loop.executor": "Run",
+    "Python.odd_even_number.executor": "Run",
+    "Python.operators_in_python.executor": "Run",
+    "Python.output_function.executor": "Run",
+    "Python.personal journal.executor": "Run",
+    "Python.pickling.executor": "Run",
+    "Python.plan_scheduler.executor": "Run",
+    "Python.prime_number_series.executor": "Run",
+    "Python.random_module.executor": "Run",
+    "Python.read_mode.executor": "Run",
+    "Python.reduce.executor": "Run",
+    "Python.regex_exersice_2.executor": "Run",
+    "Python.regex_exersice_3.executor": "Run",
+    "Python.regular_expresions.executor": "Run",
+    "Python.set.executor": "Run",
+    "Python.set_operations.executor": "Run",
+    "Python.tupple.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.weekly_hw.executor": "Run",
+    "Python.write_mode.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/xampp816/htdocs/personal-dev/py-ds"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Rijo\python_work\pythonProject\" />
+      <recent name="C:\Rijo\python_work\pythonProject\dictionary" />
+      <recent name="C:\Rijo\python_work\pythonProject\flow_control" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hw_exercise">
+    <configuration name="hw_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lambda functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda functions/hw_exercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my-journal-gen2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mini-project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-project/my-journal-gen2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my-journal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mini-project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-project/my-journal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my-journal_gen2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mini-project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mini-project/my-journal_gen2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="personal journal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/personal journal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hw_exercise" />
+        <item itemvalue="Python.my-journal-gen2" />
+        <item itemvalue="Python.my-journal_gen2" />
+        <item itemvalue="Python.my-journal" />
+        <item itemvalue="Python.personal journal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="295c6b60-6a2a-4107-a745-0e8499c45d70" name="Changes" comment="" />
+      <created>1731041650982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731041650982</updated>
+    </task>
+    <servers />
+  </component>
+</project>
