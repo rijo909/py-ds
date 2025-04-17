@@ -1,0 +1,25 @@
+
+1. Load customer file to Power Query
+
+2. Seperate customer key and first name 
+
+3. Make a new column named as Full Name , name format will like Mr. Jon Yang or Mrs. Elizabeth Johnson 
+
+Gender = Male then "Mr. " [First name] [Last name]
+
+Gender = Female then "Ms. " [First name] [Last name]
+
+Gender = NA then [First name] [Last name]
+
+
+4. Extract only domain name from each email id by keeping the original email id column
+
+5. Create a new column named Cards
+      condition for card annual income >75000  ---> Gold Card
+                                       >40000  ---> Platinum card
+                                       >=30000 ---> Silver card
+                                       otherwise No Card
+
+
+
+                                     
