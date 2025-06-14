@@ -1,0 +1,7 @@
+.idea/
+# *.zip
+# *.csv
+__pycache__/
+deeplearning/CNN/apple_orange/fruit-dataset/
+deeplearning/CNN/test_set/test_set/
+deeplearning/CNN/training_set/training_set/
